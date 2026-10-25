@@ -2,22 +2,20 @@ Hi, I'm Godwin Pascal 👋
 
 Also known as Mr Payback 🇳🇬
 
-Aspiring Cybersecurity Professional | Python Developer | Technology Enthusiast
+Aspiring Software Developer | Cybersecurity Learner | Technology Enthusiast
 
-I'm a technology enthusiast from Nigeria passionate about building useful software, learning ethical cybersecurity, and solving real-world problems through technology.
+I'm a technology enthusiast from Nigeria learning to build useful software and develop practical cybersecurity skills.
 
-I believe in learning by building, documenting my progress, and continuously improving my skills.
-
----
+I learn by building projects, solving problems, documenting what I discover, and improving step by step.
 
 🚀 About Me
 
-- 💻 Building web applications with Python and Flask.
-- 🔐 Learning ethical hacking and web application security.
+- 💻 Developing web applications using Python and Flask.
+- 🛠️ Building Foodey, a web application that is still in development.
+- 🔐 Learning ethical hacking and web application security in authorized environments.
 - 🐧 Exploring Linux, Android, and Termux.
-- 🗄️ Working with SQLite and database-driven applications.
-- 🌱 Improving my programming and problem-solving skills.
-- 🤝 Interested in open-source projects and collaboration.
+- 🗄️ Practising database development with SQLite.
+- 🌱 Continuously improving my programming skills.
 
 🛠️ Technologies & Tools
 
@@ -28,28 +26,34 @@ I believe in learning by building, documenting my progress, and continuously imp
 "GitHub" (https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 "Linux" (https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-📌 Featured Project
+📌 Current Project
 
-🍔 Foodey
+🍔 Foodey — In Development
 
-A web application project built with Python and Flask.
+Foodey is a web application I'm developing with Python and Flask.
 
-I'm working on developing practical application features and improving my skills in backend development, databases, and user experience.
+I'm working to improve its functionality, user experience, and database-backed features.
 
-🔗 "Explore the Foodey repository" (https://github.com/chiboyPascalm/foodey_review)
+Status: Work in progress. Features may change as development continues.
+
+🔗 "Visit the Foodey repository" (https://github.com/chiboyPascalm/foodey_review)
 
 🎯 My Goals
 
-- Build reliable and useful software.
-- Develop practical cybersecurity skills in authorized environments.
-- Publish well-documented projects on GitHub.
-- Contribute to open-source software.
-- Grow into a skilled software developer and cybersecurity professional.
+- Build useful and reliable software.
+- Strengthen my Python and web development skills.
+- Practise responsible cybersecurity.
+- Contribute to open-source projects.
+- Share what I learn with other developers.
 
-🌐 Connect With Me
+🤝 Open to Learning and Collaboration
 
-- GitHub: "@chiboyPascalm" (https://github.com/chiboyPascalm)
-- Projects: "Explore my repositories" (https://github.com/chiboyPascalm?tab=repositories)
+I'm interested in connecting with developers, learning from open-source communities, and contributing to useful projects.
+
+🌐 Find Me on GitHub
+
+- Profile: "@chiboyPascalm" (https://github.com/chiboyPascalm)
+- Repositories: "Explore my projects" (https://github.com/chiboyPascalm?tab=repositories)
 
 ---
 
