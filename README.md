@@ -4,14 +4,14 @@ Also known as Mr Payback 🇳🇬
 
 Aspiring Software Developer | Cybersecurity Learner | Technology Enthusiast
 
-I'm a technology enthusiast from Nigeria learning to build useful software and develop practical cybersecurity skills.
+I'm a technology enthusiast from Nigeria learning to build useful software, solve problems, and develop practical cybersecurity skills.
 
-I learn by building projects, solving problems, documenting what I discover, and improving step by step.
+I learn by building projects, documenting what I discover, and improving my skills step by step.
 
 🚀 About Me
 
-- 💻 Developing web applications using Python and Flask.
-- 🛠️ Building Foodey, a web application that is still in development.
+- 💻 Developing web applications with Python and Flask.
+- 🛠️ Building Foodey, a web application currently in development.
 - 🔐 Learning ethical hacking and web application security in authorized environments.
 - 🐧 Exploring Linux, Android, and Termux.
 - 🗄️ Practising database development with SQLite.
@@ -28,13 +28,13 @@ I learn by building projects, solving problems, documenting what I discover, and
 
 📌 Current Project
 
-🍔 Foodey — In Development
+🍔 Foodey — Work in Progress
 
-Foodey is a web application I'm developing with Python and Flask.
+Foodey is a web application I'm developing using Python, Flask, and SQLite.
 
 I'm working to improve its functionality, user experience, and database-backed features.
 
-Status: Work in progress. Features may change as development continues.
+Status: In development. Features and functionality may change as the project evolves.
 
 🔗 "Visit the Foodey repository" (https://github.com/chiboyPascalm/foodey_review)
 
@@ -44,11 +44,11 @@ Status: Work in progress. Features may change as development continues.
 - Strengthen my Python and web development skills.
 - Practise responsible cybersecurity.
 - Contribute to open-source projects.
-- Share what I learn with other developers.
+- Document my learning journey and share useful knowledge.
 
-🤝 Open to Learning and Collaboration
+🤝 Learning & Collaboration
 
-I'm interested in connecting with developers, learning from open-source communities, and contributing to useful projects.
+I'm interested in connecting with developers, learning from open-source communities, and collaborating on useful projects as my skills grow.
 
 🌐 Find Me on GitHub
 
